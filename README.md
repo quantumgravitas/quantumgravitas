@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @quantumgravitas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-quantumgravitas/quantumgravitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 About Me
+🚀 I'm interested in building user friendly and functional web applications.
+🤝 I enjoy working in teams and contributing to solving real-world problems through technology.
+💡A lifelong learner,I'm continually expanding my skillset in modern web development framework and tools.
+
+🛠️ Skills
+Languages:
+Java,JavaScript, HTML, CSS
+Frameworks & Libraries:
+SpringBoot,Spring,React.js, Node.js, Express.js, Bootstrap, Tailwind CSS
+Databases:
+MongoDB, MySQL
+Tools & Platforms:
+Git,VSCode Postman, Docker.
+
+📫 How to Reach Me
+Email:maurgodase26@gmail.com .
